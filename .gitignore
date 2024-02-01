@@ -30,3 +30,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+./dataStructure/dataStructure.iml
+./algorithm/algorithm.iml
+./hello-algorithm.iml
