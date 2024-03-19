@@ -40,7 +40,6 @@ public class FixedWindowCounter {
             }
         }
         return true;
-
     }
 
     public static void main(String[] args) throws InterruptedException {
